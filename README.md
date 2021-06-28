@@ -1,2 +1,2 @@
 # VRSC
-nheqminer
+nheqminer/srbminer
